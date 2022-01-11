@@ -11,3 +11,8 @@ https://github.com/IonCovali/sabproject/tree/82d36eb05c663e4440a35187290a17ed60f
 # Feedback lab3:
 
 - nothing
+
+# Feedback lab4, lab5 and lab6:
+-no content
+
+# Proposed grade: 4
